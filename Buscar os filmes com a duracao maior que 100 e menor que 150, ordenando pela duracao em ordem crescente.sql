@@ -1,0 +1,1 @@
+SELECT Nome, Ano, Duracao FROM Filmes WHERE 100 < Duracao AND Duracao < 150 ORDER BY Duracao;
